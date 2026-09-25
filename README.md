@@ -4,11 +4,20 @@ Resource packs de TheCataclysmSMP para **Minecraft 1.21.5** (Fabric).
 
 ## Packs
 
-| Pack | Versión | Contenido |
-|---|---|---|
-| `CataclysmTexture.zip` | V1 | Retexturas base de mobs + audio minimo (1 tema). ~17 MB |
-| `CataclysmTexture2.zip` | V2 | Retexturas base + skins aleatorios + 23 temas de jefes. ~184 MB |
-| `PantheonCata.zip` | V5.5 (recomendado) | Igual que V2 + badges de equipos actualizados. ~184 MB |
+| Pack | Versión | Estado | Contenido |
+|---|---|---|---|
+| `PantheonCata.zip` | V5.5 | **RECOMENDADO / actual** | Retexturas base + random skins + 23 temas de jefes + badges de equipos renovados. ~184 MB |
+| `CataclysmTexture2.zip` | V2 | **DESACTUALIZADO** (solo por compatibilidad) | Igual audio que V5.5 pero badges viejos y duplicados internos limpiados al empaquetar. ~184 MB |
+| `CataclysmTexture.zip` | V1 | **DESACTUALIZADO / obsoleto** (solo por compatibilidad) | Retexturas base sin audio de jefes (solo 1 tema). ~17 MB |
+
+> **Las texturas de mobs son las mismas en los 3 packs.** La diferencia real: audio de jefes (V2/V5.5 lo tienen completo) y badges de equipos (V5.5 renovados).
+> **Usa siempre PantheonCata (V5.5).** V1 y V2 son versiones anteriores y no se recomienda forzar su uso.
+
+## Hash (SHA-1) de PantheonCata.zip
+
+```
+E508A7F829E763CCCAB61D34F6C4C3C100900E0B
+```
 
 ## Instalación (cliente)
 
